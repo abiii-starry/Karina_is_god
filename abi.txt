@@ -6,3 +6,4 @@ abiabiabi
 写完这一行就add
 add到暂存区了
 在abi分支上新家了一行
+Creating a new branch is quick AND simple.
