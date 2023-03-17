@@ -5,3 +5,4 @@ abiabiabi
 66666
 写完这一行就add
 add到暂存区了
+Creating a new branch is quick & simple.
