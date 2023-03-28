@@ -7,4 +7,4 @@ abiabiabi
 add到暂存区了
 Creating a new branch is quick & simple.
 在abi分支上新家了一行
-Creating a new branch is quick AND simple.
+Creating a new branch is quick AND simple.g
